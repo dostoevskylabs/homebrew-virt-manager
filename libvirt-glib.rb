@@ -1,4 +1,4 @@
-class LibvirtGLib < Formula
+class LibvirtGlib < Formula
   desc "Libvirt API for glib-based programs"
   homepage "https://libvirt.org/"
   url "https://libvirt.org/sources/glib/libvirt-glib-1.0.0.tar.gz"
